@@ -10,6 +10,7 @@ This project includes a Python script for detecting outliers in stock price data
 ## Directory Structure
 
 Ensure your directory structure looks like this:
+```bash
 /DATASET_OUTLINER
 ├── data
 │ ├── LSE
@@ -17,6 +18,7 @@ Ensure your directory structure looks like this:
 │ └── NYSE
 ├── output
 └── stock_price_outlier_detection.py
+```
 
 
 
